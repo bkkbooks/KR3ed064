@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR3ed064/v1
+canonical_location: https://kanripo.org/bkk/KR3ed064/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 不謝方一卷
+  identifiers:
+    krp: KR3ed064
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed064.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed064_000.yaml, hash: 'sha256:1ff207ea1fa374fb2a6bfa4e38cfc0ac44f8c55e7c0b4f0e342f5175da5537fc'}
+  - {seq: 1, filename: KR3ed064_001.yaml, hash: 'sha256:c5869ef112406274598d29eba5eca115b402425479cd26a9cf2bca881486e942'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed064_000.markers.yaml, hash: 'sha256:af3cf0c98c85ee0f4cb2b865175628d55aba5187411f1418dee28112fbd8795a'}
+  - {seq: 1, role: markers, filename: assets/KR3ed064_001.markers.yaml, hash: 'sha256:7e0f8d1faa64e7f4e104d234611535e6313c4ffa2ad651fccf6d39e8867572c2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed064_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 660
+  label: 世補齋不謝方小引
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed064_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 2559
+  label: 不謝方一卷
+  type: section
+  level: 1
+hash: sha256:32a701a1f5144e2ffc21f9a37f295f18aaf6424819dc410cf4db1436063e0257
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

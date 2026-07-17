@@ -21,7 +21,7 @@ assets:
   - {seq: 1, filename: KR3ed064_001-jc.yaml, hash: 'sha256:d7d8f3e851a60ed799ee1b1d8d2b8b4d425c739b12d2f3f38282bf4daa333060'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed064_000-jc.markers.yaml, hash: 'sha256:e596181c3ccd58ef7b2e046f30e5a956e193a03f65d997b3f011f4fd8a6684b2'}
-  - {seq: 1, role: markers, filename: assets/KR3ed064_001-jc.markers.yaml, hash: 'sha256:5a73c50898428eb95d296f78a0fdfd5fd39eebfdab314ba3ccd1b7c09190b23c'}
+  - {seq: 1, role: markers, filename: assets/KR3ed064_001-jc.markers.yaml, hash: 'sha256:ab050743586980624c42fc5893e56c40bdd5d83689ddda76615baea0ce469509'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 不謝方一卷
   type: section
   level: 1
-hash: sha256:50cc2ae57978d1f3ea7f09bbeade70ecc589c7ec0665fcac15c0e2bab1215b1b
+hash: sha256:2c907f98cc54ff85f0d25a48d53ee839d8b72f88f3d03b3c04fd11f6e8bad9b7

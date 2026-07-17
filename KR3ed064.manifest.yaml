@@ -21,7 +21,7 @@ assets:
   - {seq: 1, filename: KR3ed064_001.yaml, hash: 'sha256:eae3b8f451bc3e1f29bd221008aefd3db576011ab3e0679e59f94e573a4633e2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed064_000.markers.yaml, hash: 'sha256:2512b24bc78e5bf9385b26329b4c7feedbc165816f92af57b6c3a37dcdf81d8d'}
-  - {seq: 1, role: markers, filename: assets/KR3ed064_001.markers.yaml, hash: 'sha256:3eaf008ba78d9405ab23436ed69c117b4a44880bcdb751968aec04beb1798300'}
+  - {seq: 1, role: markers, filename: assets/KR3ed064_001.markers.yaml, hash: 'sha256:5fce0d4bb136c19fa35387aff86e422a16a36c6c49ce93d8fe0447fb33daaf6a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,7 +43,7 @@ table_of_contents:
   label: 不謝方一卷
   type: section
   level: 1
-hash: sha256:10b9c5fd9375ce52e37a09dcbf092a6282606ce9b6cc11766e09c4177e66c6a1
+hash: sha256:43e85be6e27b4d05b29ac01e1e24bfa5400c3efa65194e60c468fee7e1edbf43
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
